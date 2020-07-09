@@ -1,0 +1,14 @@
+---
+layout: post
+title:      "Why I Decided to Study Software Engineering"
+date:       2020-07-09 03:33:41 +0000
+permalink:  why_i_decided_to_study_software_engineering
+---
+
+
+When I was a kid, I loved math. My mother has been a high school math teacher for over 20 years, and I thought it was the coolest thing. I loved math, puzzles, riddles, and any other kind of mind game. I was good at them too. Around the age of 15 my love for those things faded. It became harder for me to focus and think. I developed an auditory focus issue which severely impacted my learning. It wasn't until my senior year of high school that they finally tested me, and I officially got my diagnosis of ADHD Inattentive Type. It was too little, too late and I graduated a few months later with a C average.
+
+I spent years of my life conditioned to believe I just wasn't as good at math, puzzles, and riddles as I thought I was. I didn't take the SAT's or go to college. I went to Cosmetology school and got my license instead. The salon environment didn't work out for me, so I left that career and moved on. I worked minimum wage jobs, never staying at one place for longer than a few months at a time. I started working as a merchandiser which required a lot of puzzle solving. After a few months they asked me to train as a lead. I tried my best, but I didn't have the confidence to hold that position. I moved to new job in the billing department of a delivery pharmacy which required a lot more puzzle solving and math. I studied to become a Certified Pharmacy Technician (CPhT) for that position. Those lessons are typically 12 weeks long before taking the big test, but we did them in 5 weeks and I passed the test. With well over a year at that job I decided to move on and get the pay increase I deserved. I now work at a third-party medical billing company for home infusions and infusion suites. It is by far the most tedious of all the jobs I have had, but it has made me realize, finally, that I am smart enough to do this. I'm good at solving puzzles and I'm good at solving mathematical equations. I'm not just good at it, I enjoy it again.
+
+One thing I never lost growing up was my love for art and creativity. I've always wanted to be a professional artist, but the pay is usually not great. They wouldn't call it being a "starving artist" if the salary were high! It is not realistic in this economy. So, what career should I choose that will allow me to be creative and pay decently? One that I would be good at? One that I can continue to grow in. Software Engineering. I chose to study Software Engineering because I finally have the confidence in myself that I will not fail. I want to create works of technological art. I want people to see and use what I build. I was ready for a new journey, and I know it will be a long one. After years of self-doubt I can finally say that I am smart enough.
+
